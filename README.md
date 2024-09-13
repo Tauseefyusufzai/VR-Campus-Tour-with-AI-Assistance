@@ -242,3 +242,7 @@ For any questions, issues, or suggestions, feel free to reach out:
 
 ---
 
+![GitHub License](https://img.shields.io/github/license/Tauseefyusufzai/VR-Campus-Tour-with-AI-Assistance)
+![GitHub issues](https://img.shields.io/github/issues/Tauseefyusufzai/VR-Campus-Tour-with-AI-Assistance)
+![GitHub stars](https://img.shields.io/github/stars/Tauseefyusufzai/VR-Campus-Tour-with-AI-Assistance)
+
