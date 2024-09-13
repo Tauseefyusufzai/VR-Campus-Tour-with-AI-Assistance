@@ -237,8 +237,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, issues, or suggestions, feel free to reach out:
 - **Name**: Tauseef Akhtar Yusufzai
-- **Email**: your-email@example.com
-- **GitHub**: [YourUsername](https://github.com/YourUsername)
+- **Email**: tauseefakhtaryusufzai@gmail.com
+- **GitHub**: [Tauseefyusufzai](https://github.com/Tauseefyusufzai)
 
 ---
 
