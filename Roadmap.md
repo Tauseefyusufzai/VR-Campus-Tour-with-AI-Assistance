@@ -1,5 +1,4 @@
-Let's break down the roadmap for your Unity 3D VR project, where you're creating a virtual model of your college with an AI character that guides the player. This roadmap will take you step by step, from concept to final delivery, with important considerations for each stage.
-
+# **Roadmap for Project:**
 ---
 
 ### **1. Planning & Requirements**
@@ -7,7 +6,7 @@ Let's break down the roadmap for your Unity 3D VR project, where you're creating
    - **Technologies**: 
      - **Game Engine**: Unity 3D
      - **VR Platform**: Decide between platforms like Oculus, SteamVR, etc.
-     - **Modeling Tools**: Blender, Maya, or 3DS Max (for the 3D model of the college)
+     - **Modeling Tools**: Blender (for the 3D model of the college)
      - **Scripting Language**: C# (for Unity)
      - **AI Integration**: Unity ML-Agents, or custom AI using APIs like OpenAI (for interaction and AI guide)
    
@@ -136,4 +135,3 @@ Let's break down the roadmap for your Unity 3D VR project, where you're creating
 | Polish & Optimization            | 1-2 weeks              |
 | Testing & Final Delivery         | 1-2 weeks              |
 
-This roadmap should provide you with a clear path from concept to delivery for your Unity VR project. Let me know if you need further details or adjustments!
