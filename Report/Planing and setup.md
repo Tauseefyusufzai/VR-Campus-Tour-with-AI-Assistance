@@ -14,6 +14,7 @@
      1. **Oculus SDK:**
         - Visit the [Oculus Developer website](https://developer.oculus.com/downloads/package/unity-integration/) and download the Oculus Integration package for Unity.
         - Open your Unity project, go to "Assets" > "Import Package" > "Custom Package," and select the downloaded Oculus Integration package. Follow the import prompts to add the SDK to your project.
+        ![oculus](./Images/Screenshot%20(127).png)
      2. **OpenXR SDK:**
         - In Unity, go to "Window" > "Package Manager."
         - In the Package Manager, search for "OpenXR" and install the OpenXR Plugin package. This SDK supports a wide range of VR devices and is useful for cross-platform development.
@@ -22,10 +23,12 @@
 ### **2. Create the Initial Unity Project File for VR**
 
    - Open Unity Hub and click on the "New Project" button.
-   - Choose a suitable template for your project. For a VR project, you might select the "3D" template, as it provides a good starting point for immersive experiences.
+   - Select the 3D (URP) template for better performance in VR projects, you might select the "3D" URP template, as it provides a good starting point for immersive experiences.
+      ![3d urp](./Images/Screenshot%20(126).png)
    - Name your project appropriately, such as "VR College Explorer with AI Guide."
    - Set the project location where you want to save your files.
    - Click "Create" to initialize the project. Unity will set up the necessary project files and folders.
+   	![unity](./Images/Screenshot%20(124).png)
 ---
 
 ### **3. Organize Folders for Assets, Scripts, Scenes, and Prefabs**
@@ -51,5 +54,6 @@
      - **Documentation Tool** - for recording the setup 
      process.
      - **Blender** - for creating the 3d model 
+     ![blender](./Images/Screenshot%20(125).png)
 
 ---
